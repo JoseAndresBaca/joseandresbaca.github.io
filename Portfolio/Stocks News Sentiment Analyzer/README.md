@@ -45,17 +45,12 @@ The sentiment analysis performed on SPY (S&P 500 ETF) involved examining financi
 
 | Date       | News                                                       | Positivity Score | Stock Price |
 |------------|------------------------------------------------------------|------------------|-------------|
-| 2023-12-08 | Want to Grow Your Portfolio to $1 Million? Here's How...   | 0.0772           | 458.230011  |
-| 2023-12-07 | 3 reasons a 'boring' December could get interesting for... | 0.4019           | 458.230011  |
-| 2023-12-06 | READ: ETF of the Week: Know What's Under the Hood          | 0.0000           | 454.760010  |
-| 2023-12-04 | What's the Best ETF to Buy Right Now?                      | 0.6369           | 456.690002  |
-| 2023-12-03 | Which Countries Have the Highest Tariffs?                  | 0.0000           | 459.100006  |
-| 2023-12-01 | S&P 500 Average Return                                      | 0.0000           | 459.100006  |
-| 2023-11-30 | Why Christmas may have come early this year for...         | 0.0000           | 456.399994  |
-| 2023-11-27 | How To Earn $500 A Month From SPY Stock                    | 0.0000           | 454.480011  |
-| 2023-11-24 | 12 Best Stocks In Each Sector                               | 0.6369           | 455.299988  |
-| 2023-11-22 | Why Thanksgiving week is typically bullish for...          | 0.0000           | 455.019989  |
-| 2023-11-21 | Investors Avoiding SPYs Concentrated Holdings...           | -0.5719          | 453.269989  |
+| 2023-11-16 | The Options Traders Hotlist: 7 Stocks with Com...          | 0.4767           | 450.230011  |
+| 2023-11-14 | Investor Michael Burry of 'Big Short' fame has...          | 0.4404           | 448.730011  |
+| 2023-11-13 | Here's One Major Mistake to Avoid if You're In...          | -0.5574          | 440.190002  |
+| 2023-11-10 | 3 Recession-Resistant Stocks to Create a Multi...          | 0.2732           | 440.609985  |
+| 2023-11-09 | Stock market news today: Stocks slide, snappin...          | 0.5859           | 433.839996  |
+| 2023-11-08 | Stock market news today: Nasdaq, S&P 500 exten...          | 0.6705           | 437.250000  |
 
 The table reflects the varying levels of positivity in news sentiment alongside the stock prices, indicating potential influences of public sentiment on market fluctuations.
 
