@@ -56,6 +56,8 @@ The sentiment analysis performed on SPY (S&P 500 ETF) involved examining financi
 
 The table reflects the varying levels of positivity in news sentiment alongside the stock prices, indicating potential influences of public sentiment on market fluctuations.
 
+![SPY News Sentiment and Stock Price Over Time](img/Portfolio/1.png)
+
 ### Observations from the Sentiment Analysis:
 - **Volatile Sentiment**: The sentiment scores varied significantly over the observed period, reflecting a dynamic news environment.
 - **Stock Price Trend**: Despite fluctuations in sentiment, the stock price of SPY showed a general upward trend with interim volatility.
