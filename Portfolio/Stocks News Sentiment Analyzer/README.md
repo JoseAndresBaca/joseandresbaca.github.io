@@ -1,5 +1,8 @@
 # Analyzing and Visualizing the Impact of Financial News Sentiment on Stock Prices
 
+## Code Repository
+[https://github.com/JoseAndresBaca/joseandresbaca.github.io/blob/master/Portfolio/Stocks%20News%20Sentiment%20Analyzer/stocks_news_sentiment_analyzer.py](#)
+
 ## Project Description
 This project integrates sentiment analysis of financial news with stock market data to understand the influence of media sentiment on stock prices. It encompasses web scraping, natural language processing, sentiment analysis, and interactive data visualization, aiming to uncover potential correlations between news sentiment and stock performance.
 
